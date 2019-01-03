@@ -1,0 +1,1 @@
+Select Drug;600mg;once daily;10 ;;0

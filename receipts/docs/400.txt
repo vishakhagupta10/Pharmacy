@@ -1,0 +1,2 @@
+sinrest;45mg;5/day;61;5;305
+TOTAL;;;;;305

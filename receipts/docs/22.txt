@@ -1,0 +1,2 @@
+meftal;500mg;1/day;20;5;100
+Digen;500mg;1/day;20;15;300
